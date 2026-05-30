@@ -9,7 +9,8 @@ Code repository for the manuscript:
 
 ## Overview
 
-This repository contains reproducible R code for two complementary forecasting analyses of *Aedes aegypti* trap surveillance data (2017–2023) from the San Gabriel Valley Mosquito and Vector Control District, Southern California.
+This repository contains reproducible R code for two complementary forecasting analyses of *Aedes aegypti* trap surveillance data (2017–2023) from the West Valley Mosquito and
+Vector Control District , Southern California.
 
 **Analysis 1 — Static forecasting** (`04_static_models.R`):
 Models trained on 2017–2022 data and evaluated on held-out 2023 trap counts.
