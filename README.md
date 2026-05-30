@@ -100,7 +100,7 @@ Key packages and their roles:
 
 ## Data Availability
 
-**Trap surveillance data** are provided by the San Gabriel Valley Mosquito and
+**Trap surveillance data** are provided by the West Valley Mosquito and
 Vector Control District and are available upon reasonable request to the
 corresponding author. Due to data sharing agreements, raw trap data are not
 included in this repository.
